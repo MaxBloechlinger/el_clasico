@@ -1,4 +1,4 @@
-# FC Barcelona vs Real Madrid Analysis Tool
+# FC Barcelona vs Real Madrid Analysis
 
 A comprehensive data analysis tool for comparing Barcelona and Real Madrid statistics with special focus on El Clásico head-to-head matchups.
 
