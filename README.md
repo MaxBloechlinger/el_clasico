@@ -1,5 +1,7 @@
 # FC Barcelona vs Real Madrid Analysis
 
+Made with Copilot
+
 A comprehensive data analysis tool for comparing Barcelona and Real Madrid statistics with special focus on El Clásico head-to-head matchups.
 
 ## Features
