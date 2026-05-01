@@ -7,7 +7,7 @@ from plotly.subplots import make_subplots
 class Visualizer:
     """Create visualizations for Barcelona vs Real Madrid analysis"""
     
-    def __init__(self, style='seaborn-v0_8-darkgrid'):
+    def __init__(self, style='darkgrid'):
         sns.set_style(style)
         self.colors = {'Barcelona': '#004687', 'Real Madrid': '#FDBF0B'}
     
