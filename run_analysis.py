@@ -8,6 +8,8 @@ import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 
+import matplotlib
+matplotlib.use('Agg')  # Use non-interactive backend
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
