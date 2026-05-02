@@ -4,6 +4,12 @@ Barcelona vs Real Madrid Analysis Script
 Runs the complete analysis from the notebook
 """
 
+#!/usr/bin/env python3
+"""
+Barcelona vs Real Madrid Analysis Script
+Runs the complete analysis from the notebook
+"""
+
 import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
@@ -107,3 +113,6 @@ def main():
     print("1. View the generated PNG charts in your project folder")
     print("2. For the interactive dashboard, run the notebook in Jupyter")
     print("3. To get real data, check the README for API sources")
+
+if __name__ == "__main__":
+    main()
